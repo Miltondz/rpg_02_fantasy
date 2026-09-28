@@ -1,0 +1,8 @@
+{
+  "id": "crypt-of-shadows",
+  "name": "Crypt of Shadows",
+  "description": "A dark fantasy dungeon campaign inspired by the original prototype structure.",
+  "floors": [
+    "levels/crypt-of-shadows-floor-1.json"
+  ]
+}
